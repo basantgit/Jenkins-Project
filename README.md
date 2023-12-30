@@ -45,4 +45,5 @@ sudo systemctl start jenkins
 You can check the status of the Jenkins service using the command:
 
 sudo systemctl status jenkins
+![image](https://github.com/basantgit/Jenkins-Project/assets/28700381/4153d684-b23d-4e92-bc90-cf0f349cdba0)
 
