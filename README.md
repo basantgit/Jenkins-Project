@@ -4,7 +4,7 @@ Jenkins requires Java to run, yet not all Linux distributions include Java by de
 
 There are multiple Java implementations which you can use. OpenJDK is the most popular one at the moment, we will use it in this guide.
 
-Update the Debian apt repositories, install OpenJDK 17, and check the installation with the commands:
+Update the Debian apt repositories, install OpenJDK 17, and check the installation with the commands.
 
 sudo apt update
 sudo apt install fontconfig openjdk-17-jre
